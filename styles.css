@@ -1,0 +1,47 @@
+body {
+  background-color: #BC8F8F;
+  font-size: 40px;
+  color: red;
+  text-align: center;
+  width: auto;
+  border: 15px solid green;
+  border-style: groove;
+  border-color: pink;
+  padding: 60px;
+  margin: 25px;
+  outline-style: solid;
+  outline-width: thick;
+  outline-color: pink;
+  outline-style: groove;
+}
+
+a:visited {
+  color:#FAF0E6;
+}
+
+div {
+  color: #FAF0E6;
+  font-size: 25px;
+  font-family: "Lucinda Console", monospace;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+p {
+  color: #FAF0E6;
+  font-family: "Monaco" ,monospace;
+  margin-bottom: 70px;
+  background-color: #FFB6C1;
+}
+h1 {
+  font-size: 15px;
+}
+img {
+  outline-style: solid;
+  outline-width: thick;
+  outline-color: pink;
+  outline-style: groove;
+  border: 8px solid green;
+  border-style: groove;
+  border-color: pink;
+}

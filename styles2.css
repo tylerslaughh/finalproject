@@ -1,0 +1,41 @@
+body {
+  background-color: #BC8F8F;
+  text-align: center;
+  font-family:"Lucinda Console", monospace;
+  font-size: 30px;
+  border: 15px solid green;
+  border-style: groove;
+  border-color: pink;
+  padding: 60px;
+  margin: 25px;
+  color: #FAF0E6;
+  outline-style: solid;
+  outline-width: thick;
+  outline-color: pink;
+  outline-style: groove;
+}
+h2 {
+  font-size: 20px;
+  text-align: center;
+  color: #FAF0E6;
+}
+p {
+  background-color: pink;
+}
+h3 {
+  font-size: 20px;
+  background-color: #B0C4DE;
+}
+a:visited {
+  color:#FAF0E6;
+  background: #BC8F8F;
+}
+img {
+  border: 5px solid #FFB6C1;
+  border-style: groove;
+  border-width: thick;
+  outline-style: solid;
+  outline-width: thick;
+  outline-color: pink;
+  outline-style: groove;
+}
